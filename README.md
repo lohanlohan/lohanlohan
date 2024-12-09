@@ -8,7 +8,7 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>ZEBRATOPIA </a></th> <!--tittle-->
       <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
@@ -22,7 +22,7 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ZebraTopia .</td> <!--desc-->
+      <td valign="text-top">ZEBRATOPIA .</td> <!--desc-->
       <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
     <tr>
