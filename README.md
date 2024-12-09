@@ -46,7 +46,7 @@ Here are some of my highlight projects.
   <thead>
     <tr>
       <th width="50%" align="center"><a>Space invader</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Space Invader</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a></a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
