@@ -22,8 +22,8 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Zebratopia adalah game 2d platform.</td> <!--desc-->
-      <td valign="text-top">Petani Pemberani adalah game bertema sim city</td> <!--desc-->
+      <td valign="text-top">Zebratopia adalah game 2d platform bertema seperti cat mario dan mario bros.</td> <!--desc-->
+      <td valign="text-top">Petani Pemberani adalah game bertema sim city tetapi ber POV seorang petani yang harus survive dengan bencana alam seperti gunung erupsi.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
@@ -44,7 +44,7 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
   <thead>
     <tr>
       <th width="50%" align="center"><a>Space invader</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Space Invader</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -57,8 +57,8 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.</td> <!--desc-->
-      <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
+      <td valign="text-top">.</td> <!--desc-->
+      <td valign="text-top">.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
