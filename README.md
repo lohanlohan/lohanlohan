@@ -15,7 +15,7 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/lohanlohan/zebratopiia/blob/main/WhatsApp%20Image%202024-12-09%20at%2015.49.51_0c43278a.jpg" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
