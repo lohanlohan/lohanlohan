@@ -8,8 +8,8 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>ZEBRATOPIA </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Zebratopia </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Petani Pemberani</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -22,8 +22,8 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ZEBRATOPIA .</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Zebratopia adalah game 2d platform.</td> <!--desc-->
+      <td valign="text-top">Petani Pemberani adalah game bertema sim city</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
@@ -43,7 +43,7 @@ Hi, I'm Ahmad Rivai, also known as Lohan. I specialize in Simple Game Programmin
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Shevia Fire VR</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Space invader</a></th> <!--tittle 3-->
       <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
     </tr>
   </thead>
