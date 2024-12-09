@@ -1,4 +1,4 @@
-Hi, I'm Lohan👋
+Hi, I'm Ahmad Rivai👋
 
 📌About
 
@@ -20,7 +20,7 @@ Here are some of my highlight projects.
         <img src="https://github.com/lohanlohan/zebratopiia/blob/main/WhatsApp%20Image%202024-12-09%20at%2015.49.51_0c43278a.jpg" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
+        <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -28,12 +28,12 @@ Here are some of my highlight projects.
       <td valign="text-top">Petani Pemberani adalah game bertema sim city tetapi ber POV seorang petani yang harus survive dengan bencana alam seperti gunung erupsi.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
+      <td align="center"><a href="">Read More</a></td> <!--link1-->
+      <td align="center"><a href="">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -52,10 +52,10 @@ Here are some of my highlight projects.
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
+        <img src="" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+        <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -63,12 +63,12 @@ Here are some of my highlight projects.
       <td valign="text-top">.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
+      <td align="center"><a href="">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="">Read More</a></td> <!--link 4-->
     </tr>
     <tr>
-      <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
-      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td> <!--link 4-->
+      <td align="center"><a href="">Trailer</a></td> <!--link 3-->
+      <td align="center"><a href="">Trailer</a></td> <!--link 4-->
     </tr>
   </tbody>
 </table>
