@@ -28,7 +28,7 @@ Here are some of my highlight projects.
       <td valign="text-top">Petani Pemberani adalah game bertema sim city tetapi ber POV seorang petani yang harus survive dengan bencana alam seperti gunung erupsi.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="">Read More</a></td> <!--link1-->
+      <td align="center"><a href="">Read More</a>https://lohanlohan.itch.io/zebratopia</td> <!--link1-->
       <td align="center"><a href="">Read More</a></td> <!--link2-->
     </tr>
     <tr>
